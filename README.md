@@ -1,3 +1,2 @@
-# My First Project
+This is my GitHub learning journey.
 
-This repository contains my coding practice.
